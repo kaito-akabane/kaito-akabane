@@ -1,3 +1,9 @@
+<h1 align="center">Creative, Effort, Passion</h1>
+
+- **Computer Science** major undergraduate in junior college
+- Interested in **Programming Language, Data Structure, Algorhithm**
+- Currently Studying **Java, Kotlin, Python, C/C++**
+
 <h3 align="left">Languages & Tools</h3>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
