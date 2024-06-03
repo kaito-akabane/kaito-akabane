@@ -1,19 +1,19 @@
 <h1 align="center">Creative, Effort, Passion</h1>
 
 - Yeungjin University (Computer Science, 2020.03~)
-- Interested in **Programming Language, Data Structure, Algorithm**
+- Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Tech Stack
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="Visual Studio Code" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://bms.com.pl/wordpress/wp-content/uploads/2019/07/intellij-idea-569199.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
-<a href="https://obsidian.md/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<br>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="20b23b15-7d0f-4b54-b958-7c9d1f1556e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<h3 align="left">Baekjoon Online Judge & solved.ac</h3>
+## My Badges
+<a href="https://www.credly.com/badges/20b23b15-7d0f-4b54-b958-7c9d1f1556e4/public_url"><img width="105" height="105" alt="" src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"></a>
+<a href="https://www.credly.com/badges/73081566-ffad-47e9-a288-cd7fb4d7dbd1/public_url"><img width="105" height="105" alt="" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png"></a>
+
+## Baekjoon Online Judge & solved.ac
 <a href="https://solved.ac/profile/kaito_akabane" style="text-decoration: none"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kaito_akabane"/></a>
