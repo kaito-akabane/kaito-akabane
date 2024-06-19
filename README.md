@@ -1,6 +1,6 @@
 <h1 align="center">Creative, Effort, Passion</h1>
 
-- Yeungjin University (Computer Science, 2020.03~)
+- Undergraduate at Yeungjin University (Computer Science, 2020.03~)
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificate
