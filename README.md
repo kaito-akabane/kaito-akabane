@@ -4,7 +4,8 @@
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
-- (Craftsman/Industrial Engineer) Information Processing
+- Craftsman Information Processing (2023. 12.)
+- Industrial Engineer Information Processing (2024. 06.)
 - Linux Master II (expected)
 
 ## Tech Stack
