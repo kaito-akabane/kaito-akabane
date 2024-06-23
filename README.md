@@ -3,7 +3,7 @@
 - Undergraduate at Yeungjin University (Computer Science, 2020.03~)
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
-## Certificate
+## Certificates
 - (Craftsman/Industrial Engineer) Information Processing
 - Linux Master II (expected)
 
