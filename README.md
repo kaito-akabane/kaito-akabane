@@ -6,7 +6,7 @@
 ## Certificates
 - Craftsman Information Processing (2023. 12.)
 - Industrial Engineer Information Processing (2024. 06.)
-- Linux Master II (expected)
+- Linux Master II (2024. 06.)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
