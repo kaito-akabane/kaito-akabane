@@ -1,6 +1,8 @@
 <h1 align="center">Creative, Effort, Passion</h1>
 
-- Undergraduate at Yeungjin University (Computer Science, 2020.03~)
+- Yeungjin University (Computer Science / Associate Degree of Engineering, 2020.03. - 2025.02.)
+- Kumoh National Institute of Technology (Computer Science / Undergraduate, 2025.03. - )
+
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
