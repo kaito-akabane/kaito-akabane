@@ -1,8 +1,10 @@
-<h1 align="center">Creative, Effort, Passion</h1>
-
-- Yeungjin University (Computer Science / Associate Degree of Engineering, 2020.03. - 2025.02.)
-- Kumoh National Institute of Technology (Computer Science / Undergraduate, 2025.03. - )
-
+# Creative, Effort, Passion
+- Education
+    - Yeungjin University (Mar. 2020 - Feb. 2025)
+        - Computer Information / Associate Degree of Engineering
+        - Overall GPA : 3.97/4.5
+    - Kumoh National Institute of Technology (Mar. 2025 - present)
+        - Computer Engineering(Software) / Undergraduate(transferred)
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
