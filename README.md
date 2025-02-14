@@ -8,9 +8,9 @@
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
-- Craftsman Information Processing (2023. 12.)
-- Industrial Engineer Information Processing (2024. 06.)
-- Linux Master II (2024. 06.)
+- TOEIC 895 (Nov. 2024)
+- Linux Master 2nd Grade (Jun. 2024)
+- Industrial Engineer Information Processing (Jun. 2024)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
