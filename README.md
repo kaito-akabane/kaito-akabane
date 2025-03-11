@@ -3,8 +3,10 @@
     - Yeungjin University (Mar. 2020 - Feb. 2025)
         - Computer Information / Associate Degree of Engineering
         - Overall GPA : 3.97/4.5
-    - Kumoh National Institute of Technology (Mar. 2025 - present)
-        - Computer Engineering(Software) / Undergraduate(transferred)
+    - R.O.K. Army Signal School (Dec. 2020)
+        - Course : Basic Training for C4I System Operator (MOS 175-102)
+    - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
+        - Computer Engineering(Software) / Undergraduate)
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
