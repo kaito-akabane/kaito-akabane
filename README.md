@@ -6,7 +6,7 @@
     - R.O.K. Army Signal School (Dec. 2020)
         - Course : Basic Training for C4I System Operator (MOS 175-102)
     - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
-        - Computer Engineering(Software) / Undergraduate)
+        - Computer Engineering(Software) / Undergraduate
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
