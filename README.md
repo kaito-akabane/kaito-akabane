@@ -1,10 +1,11 @@
 # Creative, Effort, Passion
 - Education
     - Yeungjin University (Mar. 2020 - Feb. 2025)
-        - Computer Information / Associate Degree of Engineering
+        - Associate in Engineering(Computer Information)
         - Overall GPA : 3.97/4.5
     - R.O.K. Army Signal School (Dec. 2020)
-        - Course : Basic Training for C4I System Operator (MOS 175-102)
+        - Specialty : 175-102 Tactical C4I Systems Operator/Maintainer
+        - Course : Tactical Communications Practice
     - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
         - Computer Engineering(Software) / Undergraduate
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
