@@ -1,13 +1,13 @@
 # Creative, Effort, Passion
 - Education
+    - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
+        - Computer Engineering(Software) / Undergraduate
     - Yeungjin University (Mar. 2020 - Feb. 2025)
         - Associate in Engineering(Computer Information)
         - Overall GPA : 3.97/4.5
     - R.O.K. Army Signal School (Dec. 2020)
         - Specialty : 175-102 Tactical C4I Systems Operator/Maintainer
         - Course : Tactical Communications Practice
-    - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
-        - Computer Engineering(Software) / Undergraduate
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
