@@ -1,19 +1,19 @@
-# Creative, Effort, Passion
-- Education
-    - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
-        - Computer Engineering(Software) / Undergraduate
-    - Yeungjin University (Mar. 2020 - Feb. 2025)
-        - Associate in Engineering(Computer Information)
-        - Overall GPA : 3.97/4.5
-    - R.O.K. Army Signal School (Dec. 2020)
-        - Specialty : 175-102 Tactical C4I Systems Operator/Maintainer
-        - Course : Tactical Communications Practice
+## Education
+- Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
+    - Computer Engineering(Software) / Undergraduate
+- R.O.K. Army Signal School (Dec. 2020)
+    - Specialty : 175-102 Tactical C4I Systems Operator/Maintainer
+    - Course : Tactical Communications Practice
+- Yeungjin University (Mar. 2020 - Feb. 2025)
+    - Associate in Engineering(Computer Information)
+    - Overall GPA : 3.97/4.5
 - Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
 ## Certificates
 - TOEIC 895 (Nov. 2024)
 - Linux Master 2nd Grade (Jun. 2024)
 - Industrial Engineer Information Processing (Jun. 2024)
+- JLPT N1 (Dec. 2022)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
