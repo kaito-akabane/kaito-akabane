@@ -1,15 +1,21 @@
 ## Education
 - Kumoh National Institute of Technology (Mar. 2025 - present, transferred)
     - Computer Engineering(Software) / Undergraduate
-- R.O.K. Army Signal School (Dec. 2020)
-    - Specialty : 175-102 Tactical C4I Systems Operator/Maintainer
-    - Course : Tactical Communications Practice
 - Yeungjin University (Mar. 2020 - Feb. 2025)
     - Associate in Engineering(Computer Information)
     - Overall GPA : 3.97/4.5
-- Interested in **Web Development, Programming Language, Data Structure, Algorithm**
 
-## Certificates
+## Research Activities
+- Student Intern in KIT Computer Communication Lab (Jun. 2025 - present)
+
+## Technical Training
+- R.O.K. Army Signal School (Dec. 2020)
+    - Course : Tactical Communications Practice
+- Cisco Networking Academy
+    - CCNAv7: Switching, Routing, and Wireless Essentials (Apr. 2024)
+    - CCNAv7: Enterprise Networking, Security, and Automation (May. 2024)
+ 
+## Certifications
 - TOEIC 895 (Nov. 2024)
 - Linux Master 2nd Grade (Jun. 2024)
 - Industrial Engineer Information Processing (Jun. 2024)
