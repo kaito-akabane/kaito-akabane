@@ -9,11 +9,11 @@
 - Student Intern in KIT Computer Communication Lab (Jun. 2025 - present)
 
 ## Technical Training
+- Cisco Networking Academy (Sep. 2023 - May. 2024)
+    - CCNAv7: Switching, Routing, and Wireless Essentials (Completed on Apr. 2024)
+    - CCNAv7: Enterprise Networking, Security, and Automation (Completed on May. 2024)
 - R.O.K. Army Signal School (Dec. 2020)
     - Course : Tactical Communications Practice
-- Cisco Networking Academy
-    - CCNAv7: Switching, Routing, and Wireless Essentials (Apr. 2024)
-    - CCNAv7: Enterprise Networking, Security, and Automation (May. 2024)
  
 ## Certifications
 - TOEIC 895 (Nov. 2024)
